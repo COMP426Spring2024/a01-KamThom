@@ -1,0 +1,143 @@
+.bdy {
+    background-color: black;
+    margin: 0;
+}
+
+.back {
+    background: linear-gradient(45deg, #384A54, #1E2931); 
+    border-radius: 10px;
+    height: 90vh;
+    position: relative;
+    padding: 20px;
+    margin: 20px;
+    color: white; 
+}
+
+/* Title Bar */
+header {
+    background-color: #384A54;
+    padding: 10px;
+    margin-bottom: 20px; 
+    border-radius: 10px;
+}
+
+/* Navigation Buttons */
+.navigation ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navigation ul li a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+}
+
+.navigation ul li a:hover {
+    background-color: #9E2929; 
+}
+/* ---------- */
+.title {
+    font-size: 40px;
+    font-family: Impact;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(158, 41, 41, 0.8); 
+    margin-bottom: 20px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+/* ---------- */
+
+/* Contact Info */
+.contact-card {
+    background-color: rgba(255, 255, 255, 0.1); 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+.contact-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.email {
+    font-size: 20px;
+    font-weight: bold;
+    color: white; 
+    text-decoration: none;
+}
+
+.email:hover {
+    text-decoration: underline; 
+}
+.phone{
+    font-size: 18px;
+    font-weight: bold;
+    color: white; 
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+.phone:hover {
+    text-decoration: underline; 
+}
+/* ---------- */
+
+/* Table Card */
+.table-card {
+    background-color: rgba(255, 255, 255, 0.1); 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+
+.table-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.table-card table {
+    width: 100%;
+}
+
+.table-card table td {
+    padding: 10px;
+}
+
+/* ---------- */
+
+/* Footer */
+.ftr {
+    
+    background-color: #9E2929;
+    padding: 10px;
+    position: absolute;
+    bottom: 10px;
+    border-radius: 10px;
+    left: 10px;
+    right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.side-list{
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin-right: 100px;
+}
+/* -------------- */

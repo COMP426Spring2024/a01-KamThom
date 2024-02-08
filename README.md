@@ -1,88 +1,63 @@
+#### Ideas
+- Solavis: The stellar phoenix
+- Solavis Is latin for Sun Bird 
+- Celestial/cosmic Phoenix 
 
-# Assignment 1
+## Pages
+------
+### Main Page
+#### Ideas
+- Not very much information just a page of links to other pages
+- Has one main image and the name of the bird
+	- The main image could just be a stylized bird face
+- Has a background with a boarder all the way around
+### Learn More
+#### Ideas
+- This will contain all of the information about the bird and its background
 
-In this assignment, we will create a set of HTML pages that are styled using CSS.
+The Solavis, a mysterious bird-like creature, has been a subject of fascination and intrigue for centuries. Its existence was first documented in 1609 by Thomas Harriot, who saw what appeared to be an "angel in space" while observing the moon. However, subsequent attempts to view the creature were unsuccessful, leading Harriot to believe that it was just a smudge on his lens.
 
-These pages should describe a mythological character or mythological story. The term "mythological" can be broadly interpreted and can be from any culture or time period (Greek, Roman, Aztek, Norse, Asian) or even a very loose interpretation as in describing the "mythological" 2022 Final 4 game between UNC and Duke. The content subject is up to you. 
+It wasn't until the Plumbob Nuclear Experiments of 1957 that the Solavis was seen again. A scientist at the Los Alamos testing facility captured an image of the creature while observing the predicted atmospheric exit point of a manhole cover launched into space at an incredible speed of 37 miles per second. Two on-site astronomers independently verified the sighting, confirming the presence of a large, bird-like object in orbit around the Earth.
 
-## 1. Making a Simple Website
+Despite this incredible discovery, the Solavis did not receive much attention from the broader scientific community, as it posed no apparent threat and showed no signs of being valuable. It was only among niche groups that the object was discussed, and even then, it was mostly out of curiosity.
 
-### 1.1 Basics (30 points)
+However, interest in the Solavis was renewed in 1961 when Yuri Gagarin reported seeing a glowing, white, bird-like entity while orbiting the Earth. The Russian government suspected that it was American spy equipment, and the American government agreed to avoid falling behind in the space race.
 
-The only real requirements for this assignment are these:
+Subsequent sightings of the Solavis showed a pattern of appearing only when humans made technological advances in space. Scientists began inventing new technologies solely for the chance to capture this elusive creature on film, leading to the second image of the bird being captured in 1971 by a crew of three Russians who later died mysteriously on Soyuz 11.
 
-1. There should be a single logical "starting" web page as index.html.
-2. There should be at least 3 pages. There is no maximum limit of pages, but don't go crazy.
-3. There should be links that navigate between the pages
-4. All of the pages should use the same CSS stylesheet
-5. All of the pages, stylesheets, images, or other resources are commited to this repository.
+Despite the secrecy surrounding the Solavis, scientists all over the world continue to study it in secret. The creature seems to be comprised of the same elements found in our sun and radiates similar types of energy, leading many to speculate that it is born from the core of a dying star and has a purpose of watching and protecting all space-faring beings, including humans.
 
-### 1.2 HTML (30 points)
+Though the Solavis has never stayed around long enough to be studied in depth, there is enough data to suggest that it is an intelligent creature. However, due to the likelihood of mass panic, if its existence were to be revealed, a blanket of secrecy has been placed over the entire subject.
+### Sightings
+#### Ideas
+- This is just a bunch of pictures
+### About Me
+#### Ideas
+- Put in a random famous phone number and email
+- Put a bio about a fanatical  astronaut
 
-The starting, or home page, for this assignment should be titled `index.html`. This is a standard in web development because it allows the server to render it without specify which file you want to view ([why index.html](https://www.lifewire.com/index-html-page-3466505)). This root page will then link to other html pages. These can be named whatever you like. 
+## Citations
+----
+#### Story Creation
+Britannica, The Editors of Encyclopaedia. "phoenix". Encyclopedia Britannica, 10 Oct. 2023, https://www.britannica.com/topic/phoenix-mythological-bird. Accessed 7 February 2024.
 
-At a minimum, you HTML pages should have at least one of **each** of the following: 
+(N.d.). Loc.gov. Retrieved February 7, 2024, from https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/galileo-and-the-telescope#:~:text=While%20there%20is%20evidence%20that,Jacob%20Metius%20independently%20created%20telescopes.
 
-1. `<ul>` or `<ol>`.
-2. `<table>` .
-3. `<img> `.
-4. `<selector>`.
-5. `<a>`.
+_The history of the telescope_. (n.d.). Rmg.co.uk. Retrieved February 7, 2024, from https://www.rmg.co.uk/stories/topics/history-telescope
 
-In addition to that, all of your html pages should be valid HTML5 ([html validator](http://validator.w3.org/)). Minor warnings about browser incompatibility are OK.
+Lattis, J. (n.d.). _The world’s first space telescope_. Scientific American Blog Network. Retrieved February 8, 2024, from https://blogs.scientificamerican.com/observations/the-worlds-first-space-telescope/
 
-### 1.3 CSS (30 points)
+NASA. (1961, April 1). _April 1961 – first human entered space_. NASA. https://www.nasa.gov/image-article/april-1961-first-human-entered-space/
 
-This is the part of the assignment where you can get creative. Googling examples of css and best practices is a great place to start. Especially for this assignment [w3schools](https://www.w3schools.com/css/default.asp) is going to be your best friend. 
+Evans, B. (2021, June 29). _Remembering the crew of Soyuz 11, the only astronauts to die in space_. Astronomy Magazine. https://www.astronomy.com/space-exploration/remembering-the-crew-of-soyuz-11-the-only-astronauts-to-die-in-space/
 
-At a minimum, your stylesheet should:
+#### Coding
+_HTML tutorial_. (n.d.). W3schools.com. Retrieved February 8, 2024, from https://www.w3schools.com/html/
 
-1. Have at least 10 selectors
-2. Use two or more fonts for different kinds of content
-3. Set the background color of some elements, specifying the color by hex notation
-4. Set the border of some elements
-5. Use the :hover pseudo-class for one or more elements
-6. Use at least one class-based selector
-7. Use at least one id-based selector
-8. Have at least one selector rely on the hierarchical relationship between two elements
-9. Use width and/or height to control the geometry of an element
-10. Validate as CSS3 using the W3C CSS validation tool ([css-validator](http://jigsaw.w3.org/css-validator/))
+Gemini - Habla para dar rienda suelta a tus ideas. (n.d.). Google.com. Retrieved February 8, 2024, from https://gemini.google.com/app
 
-Other than these basic features, feel free to use whatever CSS3 attributes you would like. 
 
-### 1.4 Peer View (10 points)
 
-The remaining 10 points of the assignment will be awarded based on the quality of the website as judged by your peers!
 
-Everyone will be required to rate at least 7 other submissions according to a rubric on a scale from 0-5 as follows:
-
-* 0: No Submission
-* 1: Poorly designed, content not organized or presented well.
-* 2: Meets requirements of assignment but not much to it other than that.
-* 3: Good web site with interesting content and pleasing design.
-* 4: Better than most other submissions but not necessarily the best.
-* 5: Professional-level design and content. Could reasonably be nominated for best website. 
-
-You will get 5 points for completing your reviews plus the average of the reviews your peers gave you. This part of the assignment will be done later in the semester after everyone's submission is turned in and we have had a chance to create the infrastructure necessary for making review assignments and submitting reviews. 
-
-### 2. Deployment
-
-Once you are done with your webpage, please follow the following instructions to deploy it to GitHub pages: 
-
-1. Create a local branch off of your main branch called `gh-pages`. 
-2. Push said branch to the GitHub by running `git push -u origin gh-pages`
-3. Go to the `Pages` configuration tab, as instructed by the [GitHub website.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-from-a-branch).
-4. When choosing the branch for deploying, please choose the `gh-pages` branch you just deployed, and choose the `/root` folder. 
-5. And after a few minutes, you should see your website live! The link should follow the format: `https://comp426spring2024.github.io/a1-YOUR_REPO`. 
-
-Please, do note that if you make changes to your `main` branch after deploying your `gh-pages` branch, you will have to merge your `main` into your `gh-pages` branch for the website to reflect thew updates.
-
-### 3. Turning In The Assignment
-
-Turn the assignment into [Gradescope by Thursday, February 8th, 3:30 pm](https://www.gradescope.com/courses/722298/assignments)
-
-Fill out the [attribution attestation form for A1](https://docs.google.com/forms/d/e/1FAIpQLSdJ4T5zq5duVUQOW7RK4eYMy9Uxac5-QILbXu3fxl6e52f_Og/viewform?usp=sf_link)
-
-Using CSS frameworks like Bootstrap, Bulma, etc. counts as "incorporating code or content found on-line".
 
 

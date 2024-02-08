@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solavis</title>
+    <link rel="stylesheet" href="p3.css">
+    <script> // This script was taken from Bard AI
+        function copyToClipboard(text) {
+            const input = document.createElement('input');
+            input.style.position = 'fixed';
+            input.style.opacity = 0;
+            input.value = text;
+            document.body.appendChild(input);
+            input.select();
+            document.execCommand('copy');
+            document.body.removeChild(input);
+            alert('Email copied to clipboard: ' + text);
+        }
+    </script>
+</head>
+
+<body class="bdy">
+  <div class="back">
+
+    <header>
+        <nav class="navigation">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="page1.html">About</a></li>
+                <li><span class="title">More</span></li>
+                <li><a href="page2.html">Images</a></li>
+                <li><a href="page3.html">More</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="contact-card">
+            <h2>Contact</h2>
+            <p>For all questions, bug reports, feedback, please email or call</p>
+            <a href="#" onclick="copyToClipboard('stellarobserver007@protonmail.com')" class="email">stellarobserver007@protonmail.com</a>
+            <a class="phone">+1 (703)-867-5309</a>
+        </section>
+
+        <section class="table-card">
+            <h2>Solavis Sightings</h2>
+            <tbody>
+                <tr>
+                    <td>Last Sighting:</td>
+                    <td>Approximately 47 days ago</td>
+                </tr>
+            </tbody>
+        </section>
+
+    </main>
+
+    <footer class="ftr">
+        <ul class="side-list">
+            <li>&copy; 2024 Solavis Sociaty. All rights reserved</li>
+        </ul>
+    </footer>
+
+  </div>
+</body>
+
+</html>
